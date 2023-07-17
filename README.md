@@ -1,5 +1,5 @@
 # Project Demo
-![anim6](https://github.com/Mujanov3737/WPF-RPG/assets/75598761/60dbf513-9932-4968-922f-55904b3412e1)
+![anim6](https://github.com/Mujanov3737/WPF-RPG/assets/75598761/a6146343-86ad-4af2-a746-afd56b6a8237)
 
 # WPF-RPG
 This program is a fork of Scott Lilly's simple RPG. It is built with WPF and the C# language. A few important design patterns and concepts were explored in this project: 
